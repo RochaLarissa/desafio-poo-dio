@@ -1,7 +1,7 @@
 <h1> Desafio: Aprenda na Prática Programação Orientada a Objetos</h1>
 
-<p> Nesse commit eu comentei o código do Main como parte de boas práticas, criei uma nova Mentoria de JavaScript, um novo Bootcamp de JavaScript e também criei um novo Dev e inscrevi-o neste novo Bootcamp, exibindo no console o progresso. A manipulação de dados foi feita com sucesso obedecendo todas as regras de negócio.
-</p>
+<h2> Nesse commit eu comentei o código do Main como parte de boas práticas, criei uma nova Mentoria de JavaScript, um novo Bootcamp de JavaScript e também criei um novo Dev e inscrevi-o neste novo Bootcamp, exibindo no console o progresso. A manipulação de dados foi feita com sucesso obedecendo todas as regras de negócio.
+</h2>
 
 
 <p> Sejam bem-vindos ao desafio: <strong>APRENDENDO NA PRÁTICA O PARADIGMA DE ORIENTAÇÃO A OBJETOS.</strong><br>Desafio este que tive a honra de co-criar com a plataforma de cursos online <strong><a href="https://web.digitalinnovation.one/">DIGITAL INNOVATION ONE</a></strong> 💛🧡 e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.<br>
